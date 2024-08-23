@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reyhoon
 - 👀 I’m interested in Biomedical Engineeirng and Programming ^-^ 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and .Net
 - 💞️ I’m looking to collaborate on being a developer in a company 
 - 📫 How to reach me -> Email: Reyhaneh.j28@gmail.com
 
