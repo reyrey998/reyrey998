@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Reyhoon
-- 👀 I’m interested in Biomedical Engineeirng and Programming ^-^ 
-- 🌱 I’m currently learning SQL and .Net
-- 💞️ I’m looking to collaborate on being a developer in a company 
-- 📫 How to reach me -> Email: Reyhaneh.j28@gmail.com
+👋 Hey, I’m Reyhoon!
 
-<!---
-reyrey998/reyrey998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Frontend Developer | AI Enthusiast | Biomedical Engineer**
+
+🚀 Building with **Angular & TypeScript**
+🤖 Exploring **Python, Machine Learning & AI**
+🧬 Passionate about **Biomedical Engineering, Biomaterials & Tissue Engineering**
+
+🌱 I love learning new technologies, building real-world projects, and exploring the intersection of **AI, software, and biomedical science**.
+
+🤝 Open to interesting collaborations and challenging projects.
+
+📫 **[Reyhaneh.j28@gmail.com](mailto:Reyhaneh.j28@gmail.com)**
+
